@@ -1,13 +1,13 @@
 ## 🦋 Hayvanlar
-- hayvan1
-- hayvan2
+1. hayvan1
+2. hayvan2
 
 
 ## 🍅 Sebzeler
-- sebze1
-- sebze2
+1. sebze1
+2. sebze2
 
 
 ## 🍓 Meyveler
-- meyve1
-- meyve2
+1. meyve1
+2. meyve2
