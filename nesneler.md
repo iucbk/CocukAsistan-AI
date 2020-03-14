@@ -1,38 +1,38 @@
-## ?? Hayvanlar
+## 🦋 Hayvanlar
 1. Kedi
 2. Kopek
-3. Ku?
+3. Kuş
 4. Hamster
-5. Bal?k
-6. Tav?an
+5. Balık
+6. Tavşan
 7. Salyangoz
 8. Solucan
 9. Civciv
-10. Kaplumba?a
+10. Kaplumbağa
 
 
-## ?? Sebzeler
-1. Salatal?k
-2. Havuc
-3. Patl?can
+## 🥦 Sebzeler
+1. Salatalık
+2. Havuç
+3. Patlıcan
 4. Brokoli
 5. Limon
 6. Biber
-7. So?an
+7. Soğan
 8. Patates
-9. M?s?r
-10. Karn?bahar
+9. Mısır
+10. Karnıbahar
 
 
 
-## ?? Meyveler
-1. Cilek
+## 🍓 Meyveler
+1. Çilek
 2. Muz
 3. Elma
 4. Portakal
 5. Mandalina
-6. Kay?s?
+6. Kayısı
 7. Domates
-8. Uzum
+8. Üzüm
 9. Karpuz
 10. Nar
