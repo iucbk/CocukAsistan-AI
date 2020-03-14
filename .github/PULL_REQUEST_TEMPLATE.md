@@ -4,7 +4,7 @@
 - 2️⃣ iş2
 
 <!-- alakalı issue numarasını yazın --> 
-> Alakalı issue # 
+> Alakalı issue #
 
 ## 📝 Ek Notlar
 -
