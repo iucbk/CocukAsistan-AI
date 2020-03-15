@@ -1,5 +1,6 @@
 # 🔗 Faydalı Bağlantıları
 - 🔎 Araştırıken denk geldiğimiz faydalı bağlantılar
+- 🔎 [Object Detection Overall Review](https://www.fritz.ai/object-detection/)
 
 ## 🗃️ Veri setleri
 - [💫 GooglAPIs](https://storage.googleapis.com/openimages/web/visualizer/index.html)
