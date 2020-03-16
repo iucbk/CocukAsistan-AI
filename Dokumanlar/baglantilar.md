@@ -8,6 +8,7 @@
 - 🔎 [Object detection algorithms explained](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
 - 🔎 [Object detection: zero to hero](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
 - 🔎 [Comparison of R-CNNs and YOLO Algorithms](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
+- 🔎 [Object detection on Android and Raspberry Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
 
 
 ## 🛒 Transfer Learning Kaynakları
