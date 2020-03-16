@@ -1,7 +1,7 @@
 ## 🦋 Hayvanlar
 | #  | 🟣 İsim   | 🔗 Veri Seti | #Training | #Validation | #Testing |
 | -- | ---------- | ------------ | --------- | ----------- | -------- |
-| 1  | Kedi       | OpenImages   |           |             |          |
+| 1  | Kedi       | OpenImages   | 12.516    | 337         | 982      |
 | 2  | Köpek      | OpenImages   |           |             |          |
 | 3  | Kuş        | OpenImages   |           |             |          |
 | 4  | Hamster    | OpenImages   |           |             |          |
@@ -29,10 +29,10 @@
 ## 🍓 Meyveler
 | #  | 🟣 İsim    | 🔗 Veri Seti | #Training | #Validation | #Testing |
 | -- | ----------- | ------------ | --------- | ----------- | -------- |
-| 1  | Çilek       | OpenImages   |           |             |          |
-| 2  | Muz         | OpenImages   |           |             |          |
+| 1  | Çilek       | OpenImages   | 1257      | 63          | 225      |
+| 2  | Muz         | OpenImages   | 723       | 17          | 68       |
 | 3  | Elma        | OpenImages   | 1078      | 46          | 144      |
-| 4  | Portakal    | OpenImages   |           |             |          |
+| 4  | Portakal    | OpenImages   | 900       | 61          | 208      |
 | 5  | Armut       | OpenImages   |           |             |          |
 | 6  | Kayısı      |              |           |             |          |
 | 7  | Domates     | OpenImages   |           |             |          |
