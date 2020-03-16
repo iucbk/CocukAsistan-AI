@@ -33,7 +33,7 @@
 | 2  | Muz         |   |
 | 3  | Elma        |   |
 | 4  | Portakal    |   |
-| 5  | Mandalina   |   |
+| 5  | Armut       |   |
 | 6  | Kayısı      |   |
 | 7  | Domates     |   |
 | 8  | Üzüm        |   |
