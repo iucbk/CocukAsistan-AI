@@ -7,7 +7,7 @@
 | 4  | Hamster    |              |           |             |          |
 | 5  | Balık      |              |           |             |          |
 | 6  | Tavşan     |              |           |             |          |
-| 7  | Salyangöz  |              |           |             |          |
+| 7  | Salyangoz  |              |           |             |          |
 | 8  | Solucan    |              |           |             |          |
 | 9  | Civciv     |              |           |             |          |
 | 10 | Kaplumabğa |              |           |             |          |
