@@ -1,4 +1,4 @@
-# 🔗 Faydalı Bağlantıları
+# 🔗 Faydalı Bağlantılar
 🔎 Araştırıken denk geldiğimiz faydalı bağlantılar
 
 
