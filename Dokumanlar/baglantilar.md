@@ -21,6 +21,9 @@
 
 ## 🗃️ Veri setleri
 - [💫 GooglAPIs](https://storage.googleapis.com/openimages/web/visualizer/index.html)
+- [COCO dataset](http://cocodataset.org/#download)
+- [Open Images](https://storage.googleapis.com/openimages/web/index.html)
+- [Pascal VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 
 
 ## ➰ TFLite Modelleri
