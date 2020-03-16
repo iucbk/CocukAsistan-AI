@@ -1,42 +1,42 @@
 ## 🦋 Hayvanlar
 | #  | 🟣 İsim   | 🔗 Veri Seti | #Training | #Validation | #Testing |
 | -- | ---------- | ------------ | --------- | ----------- | -------- |
-| 1  | Kedi       |              |           |             |          |
-| 2  | Köpek      |              |           |             |          |
-| 3  | Kuş        |              |           |             |          |
-| 4  | Hamster    |              |           |             |          |
-| 5  | Balık      |              |           |             |          |
-| 6  | Tavşan     |              |           |             |          |
-| 7  | Salyangöz  |              |           |             |          |
+| 1  | Kedi       | OpenImages   |           |             |          |
+| 2  | Köpek      | OpenImages   |           |             |          |
+| 3  | Kuş        | OpenImages   |           |             |          |
+| 4  | Hamster    | OpenImages   |           |             |          |
+| 5  | Balık      | OpenImages   |           |             |          |
+| 6  | Tavşan     | OpenImages   |           |             |          |
+| 7  | Salyangöz  | OpenImages   |           |             |          |
 | 8  | Solucan    |              |           |             |          |
 | 9  | Civciv     |              |           |             |          |
-| 10 | Kaplumabğa |              |           |             |          |
+| 10 | Kaplumabğa | OpenImages   |           |             |          |
 
 ## 🥦 Sebzeler
 | #  | 🟣 İsim   | 🔗 Veri Seti | #Training | #Validation | #Testing |
 | -- |----------  | ------------ | --------- | ----------- | -------- |
-| 1  | Salatalık  |              |           |             |          |
-| 2  | Havuç      |              |           |             |          |
+| 1  | Salatalık  | OpenImages   |           |             |          |
+| 2  | Havuç      | OpenImages   |           |             |          |
 | 3  | Patlıcan   |              |           |             |          |
-| 4  | Brokoli    |              |           |             |          |
-| 5  | Limon      |              |           |             |          |
-| 6  | Biber      |              |           |             |          |
+| 4  | Brokoli    | OpenImages   |           |             |          |
+| 5  | Limon      | OpenImages   |           |             |          |
+| 6  | Biber      | OpenImages   |           |             |          |
 | 7  | Soğan      |              |           |             |          |
-| 8  | Patates    |              |           |             |          |
+| 8  | Patates    | OpenImages   |           |             |          |
 | 9  | Mısır      |              |           |             |          |
 | 10 | Karnıbahar |              |           |             |          |
 
 ## 🍓 Meyveler
 | #  | 🟣 İsim    | 🔗 Veri Seti | #Training | #Validation | #Testing |
 | -- | ----------- | ------------ | --------- | ----------- | -------- |
-| 1  | Çilek       |              |           |             |          |
-| 2  | Muz         |              |           |             |          |
+| 1  | Çilek       | OpenImages   |           |             |          |
+| 2  | Muz         | OpenImages   |           |             |          |
 | 3  | Elma        | OpenImages   | 1078      | 46          | 144      |
-| 4  | Portakal    |              |           |             |          |
-| 5  | Armut       |              |           |             |          |
+| 4  | Portakal    | OpenImages   |           |             |          |
+| 5  | Armut       | OpenImages   |           |             |          |
 | 6  | Kayısı      |              |           |             |          |
-| 7  | Domates     |              |           |             |          |
-| 8  | Üzüm        |              |           |             |          |
-| 9  | Karpuz      |              |           |             |          |
-| 10 | Nar         |              |           |             |          |
+| 7  | Domates     | OpenImages   |           |             |          |
+| 8  | Üzüm        | OpenImages   |           |             |          |
+| 9  | Karpuz      | OpenImages   |           |             |          |
+| 10 | Nar         | OpenImages   |           |             |          |
 
