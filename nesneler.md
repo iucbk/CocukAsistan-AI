@@ -27,7 +27,7 @@
 | 10 | Karnıbahar |   |
 
 ## 🍓 Meyveler
-| #  | 🟣 İsim    |   |
+| #  | 🟣 İsim    | 🔗 Veri Seti |
 | -- | ----------- |---|
 | 1  | Çilek       |   |
 | 2  | Muz         |   |
