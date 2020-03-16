@@ -8,7 +8,7 @@
 | 5  | Balık      | OpenImages   |           |             |          |
 | 6  | Tavşan     | OpenImages   |           |             |          |
 | 7  | Salyangöz  | OpenImages   |           |             |          |
-| 8  | Solucan    |              |           |             |          |
+| 8  | Solucan    | ImageNet     |           |             |          |
 | 9  | Civciv     |              |           |             |          |
 | 10 | Kaplumabğa | OpenImages   |           |             |          |
 
@@ -23,8 +23,8 @@
 | 6  | Biber      | OpenImages   |           |             |          |
 | 7  | Soğan      |              |           |             |          |
 | 8  | Patates    | OpenImages   |           |             |          |
-| 9  | Mısır      |              |           |             |          |
-| 10 | Karnıbahar |              |           |             |          |
+| 9  | Mısır      | ImageNet     |           |             |          |
+| 10 | Karnıbahar | ImageNet     |           |             |          |
 
 ## 🍓 Meyveler
 | #  | 🟣 İsim    | 🔗 Veri Seti | #Training | #Validation | #Testing |
