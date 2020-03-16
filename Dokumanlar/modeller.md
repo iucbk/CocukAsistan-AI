@@ -1,7 +1,7 @@
 # 🕵️‍♀️ Obje Algılama Bağlamında Popüler Modeller
-## ⭐ Örenk Modeller
+## ⭐ Örnek Modeller
 - RCNN (seri olarak)
 - SSD
 - YOLO
 
-> Detaylarını araştırıp dokümana eklemeliyiz 👷‍♂️
+> [Seçilen model](https://tfhub.dev/tensorflow/ssd_mobilenet_v1/1)
