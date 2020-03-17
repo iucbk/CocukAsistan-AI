@@ -21,7 +21,7 @@
 | 4  | 🥦 Brokoli    | OpenImages   |           |             |          |
 | 5  | 🍋 Limon      | OpenImages   |           |             |          |
 | 6  | 🌶 Biber       | OpenImages   |           |             |          |
-| 7  | 🧅 Soğan      |              |           |             |          |
+| 7  | 🥬 Lahana     | OpenImages   |           |             |          |
 | 8  | 🥔 Patates    | OpenImages   |           |             |          |
 | 9  | 🌽 Mısır      | ImageNet     |           |             |          |
 | 10 | 🥦 Karnıbahar | ImageNet     |           |             |          |
@@ -34,7 +34,7 @@
 | 3  | 🍎 Elma        | OpenImages   | 1078      | 46          | 144      |
 | 4  | 🍊 Portakal    | OpenImages   | 900       | 61          | 208      |
 | 5  | 🍐 Armut       | OpenImages   |           |             |          |
-| 6  | 🎃 Balkabağı   | OpenImages   |           |             |          |
+| 6  | 🥝 Kivi        | OpenImages   |           |             |          |
 | 7  | 🍅 Domates     | OpenImages   |           |             |          |
 | 8  | 🍇 Üzüm        | OpenImages   |           |             |          |
 | 9  | 🍉 Karpuz      | OpenImages   |           |             |          |
