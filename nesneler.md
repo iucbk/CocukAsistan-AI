@@ -9,7 +9,7 @@
 | 6  | 🐰 Tavşan     | OpenImages   | 1,179     | 56          | 184      |
 | 7  | 🐌 Salyangöz  | OpenImages   |           |             |          |
 | 8  | 🐛 Solucan    | ImageNet     |           |             |          |
-| 9  | 🐥 Civciv     |              |           |             |          |
+| 9  | 🐸 Kurbağa    | OpenImages   |           |             |          |
 | 10 | 🐢 Kaplumabğa | OpenImages   |           |             |          |
 
 ## 🥦 Sebzeler
