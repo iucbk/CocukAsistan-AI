@@ -17,10 +17,10 @@
 | -- |-------------- | ------------ | --------- | ----------- | -------- |
 | 1  | 🥒 Salatalık  | OpenImages   | 454       | 46          | 115      |
 | 2  | 🥕 Havuç      | OpenImages   | 594       | 32          | 76       |
-| 3  | 🎃 Kabak      | OpenImages   | 1,705     |             |          |
+| 3  | 🎃 Kabak      | OpenImages   | 1,705     | 25          | 83       |
 | 4  | 🥦 Brokoli    | OpenImages   | 475       | 18          | 108      |
 | 5  | 🍋 Limon      | OpenImages   | 679       | 71          | 184      |
-| 6  | 🌶 Biber       | OpenImages   |           |             |          |
+| 6  | 🌶 Biber       | OpenImages   | 380       | 31          | 102      |
 | 7  | 🥬 Lahana     | OpenImages   | 276       | 22          | 82       |
 | 8  | 🥔 Patates    | OpenImages   | 304       | 28          | 79       |
 | 9  | 🌽 Mısır      | ImageNet     |           |             |          |
@@ -35,8 +35,8 @@
 | 4  | 🍊 Portakal    | OpenImages   | 900       | 61          | 208      |
 | 5  | 🍐 Armut       | OpenImages   | 263       | 13          | 52       |
 | 6  | 🥝 Kivi        |              |           |             |          |
-| 7  | 🍅 Domates     | OpenImages   |           |             |          |
-| 8  | 🍇 Üzüm        | OpenImages   |           |             |          |
-| 9  | 🍉 Karpuz      | OpenImages   |           |             |          |
-| 10 | 🍁 Nar         | OpenImages   |           |             |          |
+| 7  | 🍅 Domates     | OpenImages   | 1283      | 56          | 227      |
+| 8  | 🍇 Üzüm        | OpenImages   | 767       | 44          | 122      |
+| 9  | 🍉 Karpuz      | OpenImages   | 409       | 24          | 79       |
+| 10 | 🍁 Nar         | OpenImages   | 225       | 10          | 43       |
 
