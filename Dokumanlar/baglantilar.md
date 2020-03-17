@@ -15,6 +15,7 @@
 - 🔎 [Transfer Learning](https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751)
 - 🔎 [End to End Learning vs Transfer Learning](https://dl.asmaamir.com/5-dlstrategies/c-otherstrategies#end-to-end-learning-vs-transfer-learning)
 - 🔎 [Transfer learning guide](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
+- 🔎 [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 
 ## 👩‍🏫 Model Eğitimi Kaynakları
 - 🔎 [How pre-trained models work](https://towardsdatascience.com/how-do-pretrained-models-work-11fe2f64eaa2)
