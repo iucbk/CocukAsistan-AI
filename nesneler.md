@@ -34,9 +34,12 @@
 | 3  | 🍎 Elma        | OpenImages   | 1078      | 46          | 144      |
 | 4  | 🍊 Portakal    | OpenImages   | 900       | 61          | 208      |
 | 5  | 🍐 Armut       | OpenImages   | 263       | 13          | 52       |
-| 6  | 🥝 Kivi        |              |           |             |          |
+| 6  | 🥝 Kivi        | Kaggle       | 4173      |             |          |
 | 7  | 🍅 Domates     | OpenImages   | 1283      | 56          | 227      |
 | 8  | 🍇 Üzüm        | OpenImages   | 767       | 44          | 122      |
 | 9  | 🍉 Karpuz      | OpenImages   | 409       | 24          | 79       |
 | 10 | 🍁 Nar         | OpenImages   | 225       | 10          | 43       |
 
+## 📌 Linkler 
+- Kivi veri seti
+- https://www.kaggle.com/chrisfilo/fruit-recognition
