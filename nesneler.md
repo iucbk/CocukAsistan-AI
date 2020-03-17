@@ -7,8 +7,8 @@
 | 4  | 🐹 Hamster    | OpenImages   | 454       | 28          | 121      |
 | 5  | 🐟 Balık      | OpenImages   | 5,434     | 340         | 914      |
 | 6  | 🐰 Tavşan     | OpenImages   | 1,179     | 56          | 184      |
-| 7  | 🐌 Salyangoz  | ImageNet     |           |             |          |
-| 8  | 🐛 Solucan    | ImageNet     |           |             |          |
+| 7  | 🐌 Salyangoz  | ImageNet     | 914       |             |          |
+| 8  | 🐛 Solucan    | ImageNet     | 755       |             |          |
 | 9  | 🐸 Kurbağa    | OpenImages   | 1,370     | 34          | 102      |
 | 10 | 🐢 Kaplumabğa | OpenImages   | 130       | 6           | 16       |
 
@@ -23,8 +23,8 @@
 | 6  | 🌶 Biber       | OpenImages   | 380       | 31          | 102      |
 | 7  | 🥬 Lahana     | OpenImages   | 276       | 22          | 82       |
 | 8  | 🥔 Patates    | OpenImages   | 304       | 28          | 79       |
-| 9  | 🌽 Mısır      | ImageNet     |           |             |          |
-| 10 | 🥦 Karnıbahar | ImageNet     |           |             |          |
+| 9  | 🌽 Mısır      | ImageNet     | 900       |             |          |
+| 10 | 🥦 Karnıbahar | ImageNet     | 840       |             |          |
 
 ## 🍓 Meyveler
 | #  | 🟣 İsim        | 🔗 Veri Seti | #Training | #Validation | #Testing |
@@ -40,6 +40,5 @@
 | 9  | 🍉 Karpuz      | OpenImages   | 409       | 24          | 79       |
 | 10 | 🍁 Nar         | OpenImages   | 225       | 10          | 43       |
 
-## 📌 Linkler 
-- Kivi veri seti
-- https://www.kaggle.com/chrisfilo/fruit-recognition
+## 📌 Bağlantılar
+- [Kivi veri seti](https://www.kaggle.com/chrisfilo/fruit-recognition)
