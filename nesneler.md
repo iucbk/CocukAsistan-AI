@@ -7,7 +7,7 @@
 | 4  | 🐹 Hamster    | OpenImages   | 454       | 28          | 121      |
 | 5  | 🐟 Balık      | OpenImages   | 5,434     | 340         | 914      |
 | 6  | 🐰 Tavşan     | OpenImages   | 1,179     | 56          | 184      |
-| 7  | 🐌 Salyangöz  | OpenImages   |           |             |          |
+| 7  | 🐌 Salyangoz  | OpenImages   |           |             |          |
 | 8  | 🐛 Solucan    | ImageNet     |           |             |          |
 | 9  | 🐸 Kurbağa    | OpenImages   |           |             |          |
 | 10 | 🐢 Kaplumabğa | OpenImages   |           |             |          |
@@ -17,11 +17,11 @@
 | -- |-------------- | ------------ | --------- | ----------- | -------- |
 | 1  | 🥒 Salatalık  | OpenImages   |           |             |          |
 | 2  | 🥕 Havuç      | OpenImages   | 594       | 32          | 76       |
-| 3  | 🍆 Patlıcan   |              |           |             |          |
+| 3  | 🍆 Kabak      | OpenImages   |           |             |          |
 | 4  | 🥦 Brokoli    | OpenImages   | 475       | 18          | 108      |
 | 5  | 🍋 Limon      | OpenImages   | 679       | 71          | 184      |
-| 6  | 🌶 Biber      | OpenImages   |           |             |          |
-| 7  | 🧅 Soğan      |              |           |             |          |
+| 6  | 🌶 Biber       | OpenImages   |           |             |          |
+| 7  | 🥬 Lahana     | OpenImages   |           |             |          |
 | 8  | 🥔 Patates    | OpenImages   | 304       | 28          | 79       |
 | 9  | 🌽 Mısır      | ImageNet     |           |             |          |
 | 10 | 🥦 Karnıbahar | ImageNet     |           |             |          |
@@ -34,7 +34,7 @@
 | 3  | 🍎 Elma        | OpenImages   | 1078      | 46          | 144      |
 | 4  | 🍊 Portakal    | OpenImages   | 900       | 61          | 208      |
 | 5  | 🍐 Armut       | OpenImages   | 263       | 13          | 52       |
-| 6  | 🍑 Kayısı      |              |           |             |          |
+| 6  | 🥝 Kivi        | OpenImages   |           |             |          |
 | 7  | 🍅 Domates     | OpenImages   |           |             |          |
 | 8  | 🍇 Üzüm        | OpenImages   |           |             |          |
 | 9  | 🍉 Karpuz      | OpenImages   |           |             |          |
