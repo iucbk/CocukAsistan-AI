@@ -7,7 +7,7 @@
 | 4  | 🐹 Hamster    | OpenImages   | 454       | 28          | 121      |
 | 5  | 🐟 Balık      | OpenImages   | 5,434     | 340         | 914      |
 | 6  | 🐰 Tavşan     | OpenImages   | 1,179     | 56          | 184      |
-| 7  | 🐌 Salyangoz  |              |           |             |          |
+| 7  | 🐌 Salyangoz  | ImageNet     |           |             |          |
 | 8  | 🐛 Solucan    | ImageNet     |           |             |          |
 | 9  | 🐸 Kurbağa    | OpenImages   | 1,370     | 34          | 102      |
 | 10 | 🐢 Kaplumabğa | OpenImages   | 130       | 6           | 16       |
