@@ -17,3 +17,9 @@
 | Girdi       | resim          | resim                 | resim                  |
 | Çıktı       | etiket         | etiket + koordinatlar | etiket(ler) + koordinatlar |
 
+
+
+## TensorFlow Lite
+TensorFlow Lite is TensorFlow’s lightweight solution for mobile and embedded devices. It enables on-device machine learning inference with low latency and a small binary size. TensorFlow Lite uses many techniques for this such as quantized kernels that allow smaller and faster (fixed-point math) models.
+
+> TODO: Bu notu çevir 🏴
