@@ -18,7 +18,8 @@
 - 🔎 [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 
 ## 👩‍🏫 Model Eğitimi Kaynakları
-- 🔎 [How pre-trained models work](https://towardsdatascience.com/how-do-pretrained-models-work-11fe2f64eaa2)
+- [🔎 How pre-trained models work](https://towardsdatascience.com/how-do-pretrained-models-work-11fe2f64eaa2)
+- [🕵️‍♀️ Tensorflow Object Detection API (türkçe)](https://ai.yemreak.com/tensorflow-object-detection-api)
 
 ## 🗃️ Veri setleri
 - [💫 GooglAPIs](https://storage.googleapis.com/openimages/web/visualizer/index.html)
