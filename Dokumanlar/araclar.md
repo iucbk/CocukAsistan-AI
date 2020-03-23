@@ -11,3 +11,7 @@
 
 
 
+## 🚀 Verimlilik Araçları
+| 🔩 Araç | 📃 Açıklama |
+| ------- | ----------- |
+| [👩‍💼 QTabBar](http://qttabbar.wikidot.com/)| Windows file explorer'ı geliştiren araç |
