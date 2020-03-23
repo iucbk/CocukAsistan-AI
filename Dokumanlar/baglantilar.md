@@ -20,6 +20,7 @@
 ## 👩‍🏫 Model Eğitimi Kaynakları
 - [🔎 How pre-trained models work](https://towardsdatascience.com/how-do-pretrained-models-work-11fe2f64eaa2)
 - [🕵️‍♀️ Tensorflow Object Detection API (türkçe)](https://ai.yemreak.com/tensorflow-object-detection-api)
+- [🕵️‍♀️ Training Custom Object Detector](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#)
 - [💱 Convert TensorFlow model to TFlite](https://www.youtube.com/watch?v=cWrb3qIFlCQ)
 
 ## 🗃️ Veri setleri
