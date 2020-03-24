@@ -26,4 +26,3 @@ for counter, fname in enumerate(ids):
               os.path.join(args.sourcepath, args.id + '_' + str(counter) + '.jpg'))
     os.rename(os.path.join(args.sourcepath, 'Label', fname + '.txt'),
               os.path.join(args.sourcepath, 'Label', args.id + '_' + str(counter) + '.txt'))
-    
