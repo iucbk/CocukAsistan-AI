@@ -20,7 +20,6 @@ for file in os.listdir(args.sourcepath):  # Save all images in a list
     if filename.endswith('.jpg'):
         ids.append(filename[:-4])
 
-counter = 0
 for counter, fname in enumerate(ids):
     os.rename(os.path.join(args.sourcepath, fname + '.jpg'),
               os.path.join(args.sourcepath, args.id + '_' + str(counter) + '.jpg'))
