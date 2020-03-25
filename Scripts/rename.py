@@ -4,7 +4,6 @@ Python Code to rename corresponded images and label files of OpenImages dataset
 
 import os
 from pathlib import Path
-from shutil import move
 import argparse
 
 parser = argparse.ArgumentParser(
