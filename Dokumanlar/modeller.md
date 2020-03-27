@@ -36,7 +36,7 @@ SSD obje algılama algoritması 2 bölümden oluşur:
 - 👮‍♀️ **İhityaçlara** ve elde bulunan **kaynaklara** göre seçim yapılmalı
 
 ## 👩‍⚖️ Seçtiğimiz Model
-> [SSD + Mobilenet](https://tfhub.dev/tensorflow/ssd_mobilenet_v1/1)
+[SSD + Mobilenet](https://tfhub.dev/tensorflow/ssd_mobilenet_v1/1)
 
 ## 🔗 Referanslar
 - [🕵️‍♀️ Obje Algılama Temelleri](https://dltr.asmaamir.com/8-objealgilama)
