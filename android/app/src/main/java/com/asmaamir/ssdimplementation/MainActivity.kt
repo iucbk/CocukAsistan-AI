@@ -10,15 +10,14 @@ import android.view.TextureView
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.camera.core.CameraX
-import androidx.camera.core.Preview
-import androidx.camera.core.PreviewConfig
+import androidx.camera.core.*
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import java.util.concurrent.Executors
 
 class MainActivity : AppCompatActivity() {
 
+    private val TAG = "MainActivity"
     private val REQUEST_CODE_PERMISSIONS = 10
     private val REQUIRED_PERMISSIONS = arrayOf(Manifest.permission.CAMERA)
     private val executor = Executors.newSingleThreadExecutor()
@@ -48,7 +47,6 @@ class MainActivity : AppCompatActivity() {
 
         val preview = Preview(previewConfig)
         preview.setOnPreviewOutputUpdateListener {
-            // To update the SurfaceTexture, we have to remove it and re-add it
             val parent = textureView.parent as ViewGroup
             parent.removeView(textureView)
             parent.addView(textureView, 0)
@@ -56,18 +54,25 @@ class MainActivity : AppCompatActivity() {
             updateTransform()
         }
 
-        CameraX.bindToLifecycle(this, preview)
+        val iac = ImageAnalysisConfig.Builder().apply {
+            setImageReaderMode(
+                ImageAnalysis.ImageReaderMode.ACQUIRE_LATEST_IMAGE
+            )
+            setLensFacing(CameraX.LensFacing.BACK)
+        }.build()
+        val analyzerUseCase = ImageAnalysis(iac).apply {
+            setAnalyzer(executor, CameraAnalyzer())
+        }
+        CameraX.bindToLifecycle(this, preview, analyzerUseCase)
 
     }
 
     private fun updateTransform() {
         val matrix = Matrix()
 
-        // Compute the center of the view finder
         val centerX = textureView.width / 2f
         val centerY = textureView.height / 2f
 
-        // Correct preview output to account for display rotation
         val rotationDegrees = when (textureView.display.rotation) {
             Surface.ROTATION_0 -> 0
             Surface.ROTATION_90 -> 90
@@ -77,7 +82,6 @@ class MainActivity : AppCompatActivity() {
         }
         matrix.postRotate(-rotationDegrees.toFloat(), centerX, centerY)
 
-        // Finally, apply transformations to our TextureView
         textureView.setTransform(matrix)
     }
 
