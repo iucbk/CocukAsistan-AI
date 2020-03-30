@@ -17,3 +17,17 @@ Fixed point konsepti ise bize ilkokulda öğretilen "ondalıklı sayıların bil
 
 Bizim yapmayı hedeflediğimiz quantization işlemi 32 bitlik float verileri 8 bitlik integer verilere dönüştürür. Bunu yaparken dönüştürülecek verilerin aralığı bilinmelidir. Bu önemlidir çünkü bu işlem basit bir yuvarlama değildir. Bu işlemde float verimizin yukarıda bahsettiğim exponent kısmı bildiğimiz range dahilinde ortak tutulur ve mantissa kısmı inegere çevirilir. Elbette bu aşamada yalnızca 256 sayıya sahip olduğumuzdan bazı değerler yuvarlanır ama sahip olacağımız avantajlar karşısında bu göz ardı edilebilir. 
 
+Quantization Avantajları
+-
+
+- Daha az bit ile yapılan aritmetik işlemler daha hızlıdır.
+- 32 bitten 8 bite geçiş 4 kat fazla hafıza kazandırır.
+- Küçük bit uzunlukları sayesinde daha çok bilgiyi registerlara sığdırır ve bus trafiğini azaltırız.
+- Bazı mikroontrolcüler floating-point aritmetiğini desteklemez.
+
+Neden DNN'lerde kullanılır?
+-
+
+- DNN'ler gürültü ve küçük değişikliklere karşı genellikle duyarsızdır. 
+- DNN parametreleri genellike küçük bir aralıktadır. (256 integere sığdırabilmek için)
+
