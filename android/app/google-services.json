@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197481593890",
+    "firebase_url": "https://cocukasistan.firebaseio.com",
+    "project_id": "cocukasistan",
+    "storage_bucket": "cocukasistan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197481593890:android:72418a463a605332fb1e7b",
+        "android_client_info": {
+          "package_name": "com.asmaamir.ssdimplementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197481593890-lhdpein5uoctqmgpbksf89rmsrrtigqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOobYibZnPrljVh-QjDHo9wVQ_7NEJ_LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197481593890-lhdpein5uoctqmgpbksf89rmsrrtigqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
