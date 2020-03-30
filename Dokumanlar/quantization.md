@@ -1,9 +1,9 @@
-Quantization
+# Quantization
 -
 Quantization işlemi elektronikte analog verilerin dijitale çevrilmesi ile ilgilidir.
 Bizim bağlamımızda ise quantization verilerin bilgisayarlarımızda nasıl saklandıkları ile ilgilenir.
 
-Float Point vs Fixed Point
+## Float Point vs Fixed Point
 -
 Float dediğimiz veri tipi bilgisayarlarda 32 bitlik yer kaplar. Burada float-point ve fixed-point kavramlarına değinmek gerekir.
 
@@ -25,9 +25,29 @@ Quantization Avantajları
 - Küçük bit uzunlukları sayesinde daha çok bilgiyi registerlara sığdırır ve bus trafiğini azaltırız.
 - Bazı mikroontrolcüler floating-point aritmetiğini desteklemez.
 
-Neden DNN'lerde kullanılır?
+## Neden DNN'lerde kullanılır?
 -
 
 - DNN'ler gürültü ve küçük değişikliklere karşı genellikle duyarsızdır. 
 - DNN parametreleri genellike küçük bir aralıktadır. (256 integere sığdırabilmek için)
+
+## Tensorflow ve Quantization
+-
+
+- Önceden eğitilmiş olduğu için katmanların parametreleri rangeleri bilindiği sürece kolayca quantize edilebilir.
+	**Fakat bu yeterli değildir. Quantization input ve output değerleri ile birlikte tüm sisteme uygulanmalıdır.**
+- Initial input değerleri de quantize edilmelidir.
+- Bir katmanın outputu genellikle bir diğerinin outputudur. Bunlar bir kaç outlier dışında belli bir range a sahiptir. bu deeğerler de quantization işlemine tabii tutulmalıdır. Fakat bu iç değerler oldukça önemli olduklarından işlem sırasında (artık float point değil integer aritmetiği yapılır) overflowdan kaçınmak için 32 bitlik integer değerlerine çevirilirler. Daha sonra ise 8 bitlik integere çevirilirler.
+- Son outputlarda quantize edilir.
+- Doğruluk artırılmak isteniyorsa bu düzenle yeniden eğitim yapılması önerilmiş. 
+
+## Fake Quantization
+-
+
+Tensorflow'daki fake quantization konsepti eğitim sırasında parametreleri tune ederek (yine float biçiminde olmasına rağmen) quantization işlemine elverişli hale getirir. Aynı zmaanda fake quantization modülleri aktivasyonların aralıklarını bizim için kayıt eder.
+
+TL;DR [Tensorflow Quantization Tutorial](https://www.tensorflow.org/lite/performance/post_training_quantization)
+
+
+
 
