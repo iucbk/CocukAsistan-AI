@@ -15,7 +15,7 @@ Basitçe özetlemek gerekirse eğer 32-Bitlik bir yeriniz varsa 16 biti tam say�
 
 Fixed point konsepti ise bize ilkokulda öğretilen "ondalıklı sayıların bilimsel gösterimi"nin ikili sayı sistemlerindeki karşılığıdır. Elimizdeki belleği sign-bit (işareti belirtir), exponent (2'nin üssü belirtilir) ve mantissa (elimizdeki gerçek sayı) olarak ayırarak daha büyük aralıktaki sayıları gösterebiliriz.
 
-Bizim yapmayı hedeflediğimiz quantization işlemi 32 bitlik float verileri 8 bitlik integer verilere dönüştürür. Bunu yaparken dönüştürülecek verilerin aralığı bilinmelidir. Bu önemlidir çünkü bu işlem basit bir yuvarlama değildir. Bu işlemde float verimizin yukarıda bahsettiğim exponent kısmı bildiğimiz range dahilinde ortak tutulur ve mantissa kısmı inegere çevirilir. Elbette bu aşamada yalnızca 256 sayıya sahip olduğumuzdan bazı değerler yuvarlanır ama sahip olacağımız avantajlar karşısında bu göz ardı edilebilir. 
+Bizim yapmayı hedeflediğimiz quantization işlemi 32 bitlik float verileri 8 bitlik integer verilere dönüştürür. Bunu yaparken dönüştürülecek verilerin aralığı bilinmelidir. Bu önemlidir çünkü bu işlem basit bir yuvarlama değildir. Bu işlemde float verimizin yukarıda bahsettiğim exponent kısmı bildiğimiz range dahilinde ortak tutulur ve mantissa kısmı integere çevirilir. Elbette bu aşamada yalnızca 256 sayıya sahip olduğumuzdan bazı değerler yuvarlanır ama sahip olacağımız avantajlar karşısında bu göz ardı edilebilir. 
 
 Quantization Avantajları
 -
