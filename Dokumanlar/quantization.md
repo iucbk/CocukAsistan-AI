@@ -1,10 +1,9 @@
-#Quantization
+Quantization
 -
 Quantization işlemi elektronikte analog verilerin dijitale çevrilmesi ile ilgilidir.
 Bizim bağlamımızda ise quantization verilerin bilgisayarlarımızda nasıl saklandıkları ile ilgilenir.
 
-
-##Float Point vs Fixed Point
+Float Point vs Fixed Point
 -
 Float dediğimiz veri tipi bilgisayarlarda 32 bitlik yer kaplar. Burada float-point ve fixed-point kavramlarına değinmek gerekir.
 
