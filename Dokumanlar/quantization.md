@@ -11,7 +11,7 @@ Floating point konsepti bu [video](https://www.youtube.com/watch?v=PZRI1IfStY0)d
 
 Computerphile'in başka bir [video](https://www.youtube.com/watch?v=f4ekifyijIg&t=651s)sunda ise ondalıklı sayıların fixed point şeklinde nasıl saklandıkları anlatılmış.
 
-Basitçe özetlemek gerekirse eğer 32-Bitlik bir yeriniz varsa 16 biti tam sayı kalan 16 biti ise ondalıklı kısım için için ayrılır. Genellikle bu oyun ve grafik programları için elverişlidir fakat büyük sayıları bu şekilde saklayamazsınız.
+Basitçe özetlemek gerekirse eğer 32-Bitlik bir yeriniz varsa 16 biti tam sayı kalan 16 biti ise ondalıklı kısım için ayrılır. Genellikle bu oyun ve grafik programları için elverişlidir fakat büyük sayıları bu şekilde saklayamazsınız.
 
 Fixed point konsepti ise bize ilkokulda öğretilen "ondalıklı sayıların bilimsel gösterimi"nin ikili sayı sistemlerindeki karşılığıdır. Elimizdeki belleği sign-bit (işareti belirtir), exponent (2'nin üssü belirtilir) ve mantissa (elimizdeki gerçek sayı) olarak ayırarak daha büyük aralıktaki sayıları gösterebiliriz.
 
@@ -37,7 +37,7 @@ Quantization Avantajları
 - Önceden eğitilmiş olduğu için katmanların parametreleri rangeleri bilindiği sürece kolayca quantize edilebilir.
 	**Fakat bu yeterli değildir. Quantization input ve output değerleri ile birlikte tüm sisteme uygulanmalıdır.**
 - Initial input değerleri de quantize edilmelidir.
-- Bir katmanın outputu genellikle bir diğerinin outputudur. Bunlar bir kaç outlier dışında belli bir range a sahiptir. bu deeğerler de quantization işlemine tabii tutulmalıdır. Fakat bu iç değerler oldukça önemli olduklarından işlem sırasında (artık float point değil integer aritmetiği yapılır) overflowdan kaçınmak için 32 bitlik integer değerlerine çevirilirler. Daha sonra ise 8 bitlik integere çevirilirler.
+- Bir katmanın outputu genellikle bir diğerinin inputudur. Bunlar bir kaç outlier dışında belli bir range a sahiptir. bu değerler de quantization işlemine tabii tutulmalıdır. Fakat bu iç değerler oldukça önemli olduklarından işlem sırasında (artık float point değil integer aritmetiği yapılır) overflowdan kaçınmak için 32 bitlik integer değerlerine çevirilirler. Daha sonra ise 8 bitlik integere çevirilirler.
 - Son outputlarda quantize edilir.
 - Doğruluk artırılmak isteniyorsa bu düzenle yeniden eğitim yapılması önerilmiş. 
 
