@@ -24,6 +24,7 @@
 - [👶 Custom Object Detection using TensorFlow from Scratch](https://towardsdatascience.com/custom-object-detection-using-tensorflow-from-scratch-e61da2e10087)
 - [💱 Convert TensorFlow model to TFlite](https://www.youtube.com/watch?v=cWrb3qIFlCQ)
 - [💿 Quantization](https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd)
+- [🤯 Doğruluk ile ilgili tartışma](https://github.com/tensorflow/models/issues/3196)
 
 ## 🗃️ Veri setleri
 - [💫 GooglAPIs](https://storage.googleapis.com/openimages/web/visualizer/index.html)
