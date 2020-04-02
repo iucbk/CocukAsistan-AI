@@ -1,129 +1,129 @@
 item {
     id: 1
-    name: 'cat'
+    name: 'Cat'
 }
 
 item {
     id: 2
-    name: 'dog'
+    name: 'Dog'
 }
 
 item {
     id: 3
-    name: 'bird'
+    name: 'Bird'
 }
 
 item {
     id: 4
-    name: 'hamster'
+    name: 'Hamster'
 }
 
 item {
     id: 5
-    name: 'fish'
+    name: 'Fish'
 }
 
 item {
     id: 6
-    name: 'rabbit'
+    name: 'Rabbit'
 }
 
 item {
     id: 7
-    name: 'frog'
+    name: 'Frog'
 }
 
 item {
     id: 8
-    name: 'turtle'
+    name: 'Turtle'
 }
 
 item {
     id: 9
-    name: 'cucumber'
+    name: 'Cucumber'
 }
 
 item {
     id: 10
-    name: 'carrot'
+    name: 'Carrot'
 }
 
 item {
     id: 11
-    name: 'pumpkin'
+    name: 'Pumpkin'
 }
 
 item {
     id: 12
-    name: 'broccoli'
+    name: 'Broccoli'
 }
 
 item {
     id: 13
-    name: 'lemon'
+    name: 'Lemon'
 }
 
 item {
     id: 14
-    name: 'bell_pepper'
+    name: 'Bell_pepper'
 }
 
 item {
     id: 15
-    name: 'cabbage'
+    name: 'Cabbage'
 }
 
 item {
     id: 16
-    name: 'potato'
+    name: 'Potato'
 }
 
 item {
     id: 17
-    name: 'strawberry'
+    name: 'Strawberry'
 }
 
 item {
     id: 18
-    name: 'banana'
+    name: 'Banana'
 }
 
 item {
     id: 19
-    name: 'apple'
+    name: 'Apple'
 }
 
 item {
     id: 20
-    name: 'orange'
+    name: 'Orange'
 }
 
 item {
     id: 21
-    name: 'pear'
+    name: 'Pear'
 }
 
 item {
     id: 22
-    name: 'pineapple'
+    name: 'Pineapple'
 }
 
 item {
     id: 23
-    name: 'tomato'
+    name: 'Tomato'
 }
 
 item {
     id: 24
-    name: 'grape'
+    name: 'Grape'
 }
 
 item {
     id: 25
-    name: 'watermelon'
+    name: 'Watermelon'
 }
 
 item {
     id: 26
-    name: 'pomegranate'
+    name: 'Pomegranate'
 }
