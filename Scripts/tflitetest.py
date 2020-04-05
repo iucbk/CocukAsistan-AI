@@ -21,7 +21,7 @@ try :
     image = image.astype( 'float32' )
 
     image = resize( image, ( 300, 300  ) )
-    image = expand_dims( image, 0
+    image = expand_dims( image, 0 )
 
     interpreter.set_tensor( input_details[0][ 'index' ], image )
     interpreter.invoke( )
