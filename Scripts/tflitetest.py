@@ -18,7 +18,7 @@ try :
     image_cc = image.copy( )
 
     assert len( image.shape ) == 3
-    image = image.astype( 'float32' )
+    image = image.astype( np.uint8 )
 
     image = resize( image, ( 300, 300  ) )
     image = expand_dims( image, 0 )
